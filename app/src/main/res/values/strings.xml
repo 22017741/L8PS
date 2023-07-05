@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Song</string>
+    <string name="title">Song Title</string>
+    <string name="singer">Singer</string>
+    <string name="year">Year</string>
+    <string name="star">Star</string>
+    <string name="view_list">VIEW LIST</string>
+    <string name="insert">INSERT</string>
+</resources>
